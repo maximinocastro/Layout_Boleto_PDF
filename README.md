@@ -1,6 +1,6 @@
 # Layout Boleto PDF
 Para quem não tem noção de como fazer um Boleto, disponibilizei o Layout no modelo grafico em PDF utilizando a função FwMsPrinter.
-(./src/BOLETOPDF.prw)
+![Fonte](./src/BOLETOPDF.prw)
 
 Com esse modelo é possivel fazer o desenvolvimento para qualquer banco:
 
